@@ -23,18 +23,3 @@ This repository contains C language implementations of fundamental algorithms an
 | `OptimalMergePattern.c` | Determines the optimal way to merge a set of sorted files to minimize the total number of comparisons. | Greedy Approach | **Optimization** |
 
 ---
-
-## 🛠️ Implementation Details
-
-All programs are implemented in the **C programming language**. They are designed to be clear and easy to understand, making them suitable for educational and practical purposes.
-
-### Techniques Covered:
-
-* **Searching:** Linear and Binary Search.
-* **Sorting:** Merge Sort (Divide and Conquer), Quick Sort (Divide and Conquer).
-* **Graph Algorithms:** Dijkstra's (Greedy), Floyd-Warshall (Dynamic Programming), Prim's (Greedy), Kruskal's (Greedy).
-* **Optimization Problems:** 0/1 Knapsack (Dynamic Programming), Fractional Knapsack (Greedy), Optimal Merge Pattern (Greedy).
-* **Problem Solving:** N-Queens (Backtracking).
-
----
-
